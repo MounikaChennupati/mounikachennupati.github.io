@@ -409,7 +409,7 @@ section#main h1 {
 section#main .intro-box {
     float:left;
     width: 575px;
-    min-height: 300px;
+    min-height: 200px;
 }
 section#main .row .col h2 {
     margin-top: 15px;
